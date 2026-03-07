@@ -1,0 +1,2 @@
+# WeeklyTask
+Weekly Assignment Solutions
